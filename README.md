@@ -21,11 +21,11 @@
 <br />
 
 ## Связаться со мной:
-[<img align="left" alt="NickJackson757 | Telegram" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][https://t.me/NickJackson757]
+[<img align="left" alt="NickJackson757" width="50px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][https://t.me/NickJackson757]
 
 <br />
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=opa-oz&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PushinIlya&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/PushinIlya/github-readme-stats)
