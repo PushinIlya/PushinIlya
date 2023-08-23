@@ -1,18 +1,13 @@
 ## Привет, меня зовут Пушин Илья
 
-## Я Аналитик Данных и специалист по визуализации
-### В 2023 году в должности аналитика в строительной компании "АСПЭК-Домстрой":
+## Я Аналитик Данных и специалист по визуализации данных
+### В 2023 году на должности аналитика в строительной компании "АСПЭК-Домстрой":
 - Создал базу данных на основе PostgreSQL и DBeaver
 - Внедрил интерактивную систему отчётности в Tableau и MS Power BI для ускорения принятия управленческих решений
 - Руководил проектом по получению кредитного финансирования на строительство жилого комплекса "BershaCity - 1" стоимостью 1,5 млрд. руб
 - Управлял проектом по повышению кредитного рейтинга с ruB+ до ruBB-. В результате чего компания получила более высокий рейтинг от НКР
 - Контролировал проект по повышению кредитного рейтинга с ruB до ruB+ от Эксперт РА
 - Руководил проектом по получению статуса эмитента на Московской бирже
-
-### Связаться со мной:
-[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
-
-<br />
 
 ### Стек:
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -25,6 +20,10 @@
 <br />
 <br />
 
+### Связаться со мной:
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][telegram]
+
+<br />
 ---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=opa-oz&show_icons=true&hide_border=true" />
