@@ -18,6 +18,7 @@
 <img align="left" alt="MS Excel" width="50px" src="https://www.svgrepo.com/show/452066/ms-excel.svg" />
 
 <br />
+<br />
 
 ## Связаться со мной:
 [<img align="left" alt="NickJackson757 | Telegram" width="22px" src="https://www.svgrepo.com/show/452115/telegram.svg" />][https://t.me/NickJackson757]
