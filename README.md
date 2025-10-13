@@ -1,6 +1,6 @@
 ## Привет, меня зовут Пушин Илья
 
-## Аналитик данных
+## Я Аналитик данных
 
 ## Мой стек: 
 <img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/452091/python.svg" />
